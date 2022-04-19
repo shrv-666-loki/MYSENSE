@@ -1,0 +1,16 @@
+{
+  "name": "mysenselogger",
+  "version": "1.9.0",
+  "description": "Can log the content to the console!",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  },
+  "dependencies": {
+    "@slack/webhook": "^6.1.0"
+  }
+}
